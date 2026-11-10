@@ -1,1 +1,7 @@
 Hola, lector
+Me llamo Johan Sebastian Rojas Mesa, soy aprendiz Sena en el Tecnologo de ADSO 
+Tengo 18 años y Vivo en Soacha. 
+Mis objetivos con este taller son 
+ + Adquirir conocimientos teoricos y practicos sobre la herramienta de git/github. 
+ + Emplear los conocimientos adquiridos en mi vida profesional y laboral 
+ + Administra los elementos del proyecto formativo 
